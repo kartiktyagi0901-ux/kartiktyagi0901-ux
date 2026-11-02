@@ -7,7 +7,7 @@ I like turning financial questions into models and data: event studies, valuatio
 ### 📊 Featured projects
 
 - **[Flood risk & insurer stock returns](https://github.com/kartiktyagi0901-ux/climate-risk-event-study)**: a CAPM event study of Allianz, Munich Re and Swiss Re around Europe's costliest floods. *Python · statsmodels · event study*
-- **[SpaceX IPO valuation](https://github.com/kartiktyagi0901-ux/Projects-/tree/main/spacex-ipo-valuation)**: bull/bear scenarios and a reverse valuation of the largest IPO in history. *Python · valuation*
+- **[SpaceX IPO valuation](https://kartiktyagi0901-ux.github.io/Projects-/spacex-ipo-valuation/)**: bull/bear scenarios and a reverse valuation of the largest IPO in history. *Python · valuation · interactive*
 - **[Germany: structural winners, strugglers & finance](https://kartiktyagi0901-ux.github.io/Projects-/germany-structural-analysis/)**: an interactive sector × driver matrix and a financial-sector deep dive. *Macro & sector analysis*
 - **[Personal finance dashboard](https://kartiktyagi0901-ux.github.io/Projects-/personal-finance-dashboard/)**: from cash flow to savings rate to a compounding projection. *JavaScript · Chart.js*
 
