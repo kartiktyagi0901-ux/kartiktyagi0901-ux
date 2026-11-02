@@ -15,4 +15,4 @@ I like turning financial questions into models and data: event studies, valuatio
 Python (pandas, NumPy, statsmodels, matplotlib) · Jupyter · Excel · HTML/JS
 
 ### 📫 Contact
-[LinkedIn](#) · Freising / Munich, Germany
+[LinkedIn](https://www.linkedin.com/in/kartiktyagi9/) · Freising / Munich, Germany
